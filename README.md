@@ -5,6 +5,7 @@
 </div>
 
 <div align="center">
+  <h3 align="center">My Stats 👇</h2>
   <a href="https://github.com/leosouzv">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=leosouzv&hide=issues&include_all_commits=1&title_color=CB0E1D&layout=compact&border_color=BD3C46&text_color=BD3C46&icon_color=CB0E1D&show_icons=true&bg_color=DEG,000000,000000,5A0202"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leosouzv&hide=css&layout=compact&bg_color=DEG,000000,000000,5A0202&text_color=BD3C46&title_color=CB0E1D&border_color=BD3C46"/>
@@ -12,6 +13,7 @@
 </div>
 
 <div align="center" valign="top"><br>
+  <h3 align="center">My Skills 👨‍🎨</h3>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -27,6 +29,7 @@
 </div><br>
 
 <div align="center">
+  <h3 align="center">Where to find me 📱</h3>
   <a href="https://www.instagram.com/leosouzv/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/leonardosouzv/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="mailto:contatoleosouzv@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
