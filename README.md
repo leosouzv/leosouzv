@@ -6,8 +6,8 @@
 
 <div align="center">
   <a href="https://github.com/leosouzv">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leosouzv&hide=issues&include_all_commits=1&title_color=CB0E1D&layout=compact&border_color=BD3C46&text_color=BD3C46&icon_color=CB0E1D&show_icons=true&bg_color=DEG,000000,000000,5A0202"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leosouzv&hide=css&layout=compact&bg_color=DEG,000000,000000,5A0202&text_color=BD3C46&title_color=CB0E1D&border_color=BD3C46"/>
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=leosouzv&hide=issues&include_all_commits=1&title_color=CB0E1D&layout=compact&border_color=BD3C46&text_color=BD3C46&icon_color=CB0E1D&show_icons=true&bg_color=DEG,000000,000000,5A0202"/>
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leosouzv&hide=css&layout=compact&bg_color=DEG,000000,000000,5A0202&text_color=BD3C46&title_color=CB0E1D&border_color=BD3C46"/>
   </a>
 </div>
 
