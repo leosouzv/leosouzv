@@ -1,7 +1,7 @@
   <div>
   <h1 align="center">Hi, guys 🖖 I'm <a href="https://www.linkedin.com/in/leonardosouzv/"><i>Leonardo Souza</i></a> or just @leosouzv 😁</h1>
-  <p align="center">I'm currently studying to be a Java Full Stack developer at <a href="https://brazil.generation.org/"><i>Generation Brazil</i></a></p>
-  <p align="center">I'm passionate about technology in general, mainly programming and cybersecurity</p>
+  <p align="center">I'm a Java Full Stack developer Junior graduated at <a href="https://brazil.generation.org/"><i>Generation Brazil</i></a>. Now I'm studying Cyber Defense at <a href="https://www.fiap.com.br/"><i>FIAP</i></a> and focusing my studies mainly on networks, OS, Python, ShellScript and other content that involves Cybersecurity.</p>
+  <p align="center">I'm passionate about technology in general, mainly programming and cybersecurity <3</p>
 </div>
 
 <div align="center">
